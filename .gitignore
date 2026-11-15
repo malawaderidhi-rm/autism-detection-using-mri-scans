@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Raw and preprocessed data (large)
+data/raw/
+data/preprocessed/
+data/features/
+
+# Model checkpoints (too large for GitHub)
+models/checkpoints/
+
+# Logs
+logs/
+
+# Git
+.git/

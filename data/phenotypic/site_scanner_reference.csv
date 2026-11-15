@@ -1,0 +1,17 @@
+site_code,n_total_subjects,n_func_available,n_t1_raw_available,scanner_manufacturer,scanner_model,field_strength,tr_seconds,nyquist_freq_hz,recommended_bandpass_min_hz,recommended_bandpass_max_hz
+BNI_1,58,58,58,Philips,Ingenia,3.0T,3.0,0.1667,0.01,0.1
+EMC_1,54,54,54,GE,Discovery MR750,3.0T,2.0,0.25,0.01,0.1
+GU_1,106,75,106,Siemens,TrioTim,3.0T,2.0,0.25,0.01,0.1
+IP_1,56,55,56,Philips,Achieva,3.0T,2.7,0.1852,0.01,0.1
+IU_1,40,40,40,Siemens,TrioTim (Multiband),3.0T,0.813,0.615,0.01,0.1
+KKI_1,211,211,211,Philips,Achieva,3.0T,2.5,0.2,0.01,0.1
+KUL_3,28,28,28,Philips,Achieva dStream,3.0T,2.5,0.2,0.01,0.1
+NYU_1,78,78,78,Siemens,Allegra,3.0T,2.0,0.25,0.01,0.1
+NYU_2,27,27,27,Siemens,Allegra,3.0T,2.0,0.25,0.01,0.1
+OHSU_1,93,93,93,Siemens,TrioTim,3.0T,2.5,0.2,0.01,0.1
+ONRC_2,59,59,59,Siemens,Skyra (Multiband),3.0T,0.475,1.0526,0.01,0.1
+SDSU_1,58,58,58,GE,Discovery MR750,3.0T,2.0,0.25,0.01,0.1
+TCD_1,42,42,42,Philips,Achieva,3.0T,2.0,0.25,0.01,0.1
+UCD_1,32,32,32,Siemens,TrioTim,3.0T,2.0,0.25,0.01,0.1
+UCLA_1,32,32,32,Siemens,TrioTim,3.0T,3.0,0.1667,0.01,0.1
+USM_1,33,33,33,Siemens,TrioTim,3.0T,2.0,0.25,0.01,0.1
